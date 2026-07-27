@@ -4,8 +4,8 @@ from pathlib import Path
 
 # Grid and game settings
 GRID_SIZE = 20
-GRID_WIDTH = 30
-GRID_HEIGHT = 20
+GRID_WIDTH = 50
+GRID_HEIGHT = 40
 MOVE_DELAY_MS = 200
 RESERVED_BOTTOM_ROWS = 1
 INITIAL_SNAKE_LENGTH = 8
